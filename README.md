@@ -1,4 +1,4 @@
-# n11-talenthub-bootcamp-graduation-project
+# ozan-sarıbaloğlu-n11-talenthub-bootcamp-graduation-project
 
 -------- Explanation of the project ---------------
 
